@@ -157,7 +157,6 @@ body.light .cardss{
 }
 #tw{
     width: 50%;
-    height: 100px;
 }
 hr{
     height: 2px;
@@ -302,6 +301,7 @@ ol > li{
         transition: transform 2s ease ;
         display: flex;
         width: 100%;
+        margin-top: 40px;
         margin-left: 0px;
         justify-content: space-between;
         align-items: center;
